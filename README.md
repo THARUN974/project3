@@ -1,29 +1,31 @@
-# Project 3 - Advanced Weather Dashboard
+# 🌦️ Advanced Weather Dashboard
 
-## Description
-An advanced weather forecast website built using HTML, CSS, and JavaScript. The application fetches real-time weather data from a weather API and displays temperature, humidity, wind speed, weather conditions, and location details. Users can search weather information by city name and view weather updates through a responsive and user-friendly interface.
+## 📌 Overview
+The Advanced Weather Dashboard is a responsive web application that provides real-time weather information for any city using the OpenWeather API. It displays temperature, humidity, wind speed, and weather conditions in a clean and user-friendly interface.
 
-## Technologies Used
-- HTML5
-- CSS3
-- JavaScript
-- OpenWeather API
+---
 
-## Features
-- Real-time weather updates
-- Search weather by city name
-- Temperature display
-- Humidity information
-- Wind speed information
-- Weather condition display
-- Responsive design
-- Modern user interface
+## ✨ Features
+- 🔍 Search weather by city name  
+- 🌡️ Real-time temperature updates  
+- 💧 Humidity display  
+- 🌬️ Wind speed information  
+- 🌤️ Weather condition icons/text  
+- 📱 Fully responsive design  
+- ⚡ Fast API-based data fetching  
 
-## How to Run
-1. Download the project files.
-2. Get an API key from OpenWeather.
-3. Add the API key in script.js.
-4. Open index.html in your browser.
+---
 
-## Author
-Tharun Raju
+## 🛠️ Tech Stack
+- HTML5  
+- CSS3  
+- JavaScript (Vanilla JS)  
+- OpenWeather API  
+
+---
+
+## 🚀 How to Run This Project
+
+1. Clone the repository:
+```bash
+git clone https://github.com/THARUN974/project3.git
